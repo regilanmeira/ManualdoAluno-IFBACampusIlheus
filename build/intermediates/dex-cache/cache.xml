@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Regilan\.android\build-cache\d87ce448722aa02f5e440f5d8433c54c57c5c966\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="C:\Users\Regilan\Documents\Regilan\Projetos de Software\Manual-Do-Aluno\ManualdoAluno-IFBACampusIlheus_12_09\app\build\intermediates\pre-dexed\debug\classes_6f2f16270625b5a9a58876e1a9304a70bb8ac92a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Regilan\.android\build-cache\6970c36502fcfdfb42711520e16f46e946ebf9bc\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\Regilan\Documents\Regilan\Projetos de Software\Manual-Do-Aluno\ManualdoAluno-IFBACampusIlheus_12_09\app\build\intermediates\pre-dexed\debug\classes_3afdd5e4f5476a64fcc932ac653aba38c552c0ed.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Regilan\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\Regilan\Documents\Regilan\Projetos de Software\Manual-Do-Aluno\ManualdoAluno-IFBACampusIlheus_12_09\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_aa2af9f1828a3523d1b141d9007556139af7d487.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Regilan\.android\build-cache\08a710821b98f0395a6a55642a07fe242863f6f7\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="C:\Users\Regilan\Documents\Regilan\Projetos de Software\Manual-Do-Aluno\ManualdoAluno-IFBACampusIlheus_12_09\app\build\intermediates\pre-dexed\debug\classes_ee36f0b3c12b66f8761cac8c99d7b91c3e70458a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Regilan\.android\build-cache\debf2b06fb36898c47c2f20e2a249cb1469939a5\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\Users\Regilan\Documents\Regilan\Projetos de Software\Manual-Do-Aluno\ManualdoAluno-IFBACampusIlheus_12_09\app\build\intermediates\pre-dexed\debug\classes_e9ab60d62d82139d71276c908dab5fefbbadbe26.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Regilan\.android\build-cache\6aabe983fcd68bc042dea0c0c975a19d4d9cfe84\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="C:\Users\Regilan\Documents\Regilan\Projetos de Software\Manual-Do-Aluno\ManualdoAluno-IFBACampusIlheus_12_09\app\build\intermediates\pre-dexed\debug\classes_d22b51b8b62ee6373003bc5bf64f42a24f30a630.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Regilan\.android\build-cache\26d9043c21fc7096e44b38d0f16b4dd9e9509012\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="eb0d830e3eabb9deb9ec44869cf7ac7ea1ad794c">
+        <dex dex="C:\Users\Regilan\Documents\Regilan\Projetos de Software\Manual-Do-Aluno\ManualdoAluno-IFBACampusIlheus_12_09\app\build\intermediates\pre-dexed\debug\classes_8e85cfcb9f68ae6144c66caf6b687e4017cf6e2e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Regilan\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="C:\Users\Regilan\Documents\Regilan\Projetos de Software\Manual-Do-Aluno\ManualdoAluno-IFBACampusIlheus_12_09\app\build\intermediates\pre-dexed\debug\support-annotations-25.3.1_bb72fab735e001455a2d36c12307e2346cd07850.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Regilan\.android\build-cache\cb31c08a28d49780a658e2d83efe69532edc75f6\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="C:\Users\Regilan\Documents\Regilan\Projetos de Software\Manual-Do-Aluno\ManualdoAluno-IFBACampusIlheus_12_09\app\build\intermediates\pre-dexed\debug\classes_a3feaf3a8575cb006ba2f8566bc845e3476f7532.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Regilan\.android\build-cache\05c0f209f6856b1afd570b3d853b2d5ea882e8de\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="C:\Users\Regilan\Documents\Regilan\Projetos de Software\Manual-Do-Aluno\ManualdoAluno-IFBACampusIlheus_12_09\app\build\intermediates\pre-dexed\debug\classes_d8e5820d686f0b61034a64c09a0b519d0435536e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Regilan\.android\build-cache\f474616ee81bc7c4aa78a7d9bcf338cd8530f93a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="C:\Users\Regilan\Documents\Regilan\Projetos de Software\Manual-Do-Aluno\ManualdoAluno-IFBACampusIlheus_12_09\app\build\intermediates\pre-dexed\debug\classes_e4b95a42c6225109900ea0cfdf186f5c7bff5e90.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Regilan\.android\build-cache\ea8069de72f4f24300af6d63033ad15453848b70\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="486371f97baad8e607f332f20fee1d3dd00a731a">
+        <dex dex="C:\Users\Regilan\Documents\Regilan\Projetos de Software\Manual-Do-Aluno\ManualdoAluno-IFBACampusIlheus_12_09\app\build\intermediates\pre-dexed\debug\classes_34e86e5116c3fba8601b43e7946f91f3d96719b5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Regilan\.android\build-cache\233919db629341e08f7edd20f18f9253b9f66463\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="C:\Users\Regilan\Documents\Regilan\Projetos de Software\Manual-Do-Aluno\ManualdoAluno-IFBACampusIlheus_12_09\app\build\intermediates\pre-dexed\debug\classes_929c124c0f9280e32c4a8dcc6951ca19c94b45e6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Regilan\.android\build-cache\19661f565f359ec2e2ee767375ec19e087ec1643\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\Users\Regilan\Documents\Regilan\Projetos de Software\Manual-Do-Aluno\ManualdoAluno-IFBACampusIlheus_12_09\app\build\intermediates\pre-dexed\debug\classes_b7e0eb0e53faef0a163f43406eb67137f8d23da8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Regilan\.android\build-cache\593285c0167cea820bea1b968b63f8d4798adb05\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6116e0e7069de7fc259aac8e08b84f32c2038231">
+        <dex dex="C:\Users\Regilan\Documents\Regilan\Projetos de Software\Manual-Do-Aluno\ManualdoAluno-IFBACampusIlheus_12_09\app\build\intermediates\pre-dexed\debug\classes_ab9cc43e548c760bb00ae19499433f18d97afaae.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Regilan\.android\build-cache\fb0146e6f3178490381b8e9ed2fd823578245cc5\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="C:\Users\Regilan\Documents\Regilan\Projetos de Software\Manual-Do-Aluno\ManualdoAluno-IFBACampusIlheus_12_09\app\build\intermediates\pre-dexed\debug\classes_085b0b8f29e95e908be7fdf7443477f2b911ea44.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Regilan\.android\build-cache\b50ff3320fce681b19e41b26ad9398b17b764d11\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4b17463c814bdc562fb0392fa3494063623a0904">
+        <dex dex="C:\Users\Regilan\Documents\Regilan\Projetos de Software\Manual-Do-Aluno\ManualdoAluno-IFBACampusIlheus_12_09\app\build\intermediates\pre-dexed\debug\classes_fdb86d2f0a279bd34630eb58f3a71eb68f17b6b9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Regilan\.android\build-cache\5ead834361afe5e9748f9640cac1f89099414966\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="C:\Users\Regilan\Documents\Regilan\Projetos de Software\Manual-Do-Aluno\ManualdoAluno-IFBACampusIlheus_12_09\app\build\intermediates\pre-dexed\debug\classes_64f11e2b5bf686ee2320308154a9dfabc15012df.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Regilan\.android\build-cache\7352d8927bbcd1bf0489c2673b7713c82c553a1a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="433f4d6aa5f21f19552afe0e6c5eff0fedba73ad">
+        <dex dex="C:\Users\Regilan\Documents\Regilan\Projetos de Software\Manual-Do-Aluno\ManualdoAluno-IFBACampusIlheus_12_09\app\build\intermediates\pre-dexed\debug\classes_3fbc5d570de4caf2a5c33e7a6d2f089c382946a6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Regilan\.android\build-cache\f49d54b721ffc2ab79b4634b5ac8176139dbeb90\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="C:\Users\Regilan\Documents\Regilan\Projetos de Software\Manual-Do-Aluno\ManualdoAluno-IFBACampusIlheus_12_09\app\build\intermediates\pre-dexed\debug\classes_03c0b44afdc3e5e9a50b093497f37a209cbb9fb6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Regilan\.android\build-cache\f4a2dfa37563f5d3a2c37f08fcbcba2d6454538e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Regilan\Documents\Regilan\Projetos de Software\Manual-Do-Aluno\ManualdoAluno-IFBACampusIlheus_12_09\app\build\intermediates\pre-dexed\debug\classes_0bd0fca0485490e893a96d2e1b7ca3c75c711919.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Regilan\.android\build-cache\e1f318571c8ef7bb132d086eecd986520df3a1e0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="C:\Users\Regilan\Documents\Regilan\Projetos de Software\Manual-Do-Aluno\ManualdoAluno-IFBACampusIlheus_12_09\app\build\intermediates\pre-dexed\debug\classes_986d4a4e8fe7efa4c278f41775bdb29c31deda52.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    style="@style/LayoutLinear"
+    android:orientation="vertical">
+
+
+    <TextView
+        android:id="@+id/tvDataFormatada"
+        style="@style/TextView_DataListViewTitulo"
+        android:text="09 de mar"
+        android:textSize="16dp"
+        android:textStyle="bold"
+        />
+
+
+    <TextView
+        android:id="@+id/tvDescricaoTarefa"
+        style="@style/TextView_DataListViewTitulo"
+        android:text="Atividade de matemática - 1,0 ponto"/>
+
+
+</LinearLayout>

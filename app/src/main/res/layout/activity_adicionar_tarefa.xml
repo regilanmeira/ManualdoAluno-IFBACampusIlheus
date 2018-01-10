@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView  android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fillViewport="true"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    >
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+  style="@style/LayoutLinear"
+    tools:context="br.com.regilan.manualdoaluno_ifbacampusilheus.AdicionarTarefaActivity">
+
+    <TextView
+        style="@style/TextView_Titulo"
+        android:text="@string/adicionar_tarefas" />
+
+    <TextView
+        style="@style/TextView_Padrao"
+        android:text="@string/descricao_tarefa"
+        />
+
+    <EditText
+        android:id="@+id/txtTarefa"
+        android:maxLength="40"
+        style="@style/EditText_Padrao"
+        android:hint="Descrição da tarefa (até 40 caracteres)"/>
+
+
+    <TextView
+        style="@style/TextView_Padrao"
+        android:text="@string/data_tarefa" />
+
+
+    <DatePicker style="@style/DatePicker_Padrao"
+        android:id="@+id/txtDataTarefa"></DatePicker>
+
+    <TextView
+        style="@style/TextView_Padrao"
+        android:text="@string/notificarTarefa" />
+
+    <EditText
+        android:id="@+id/txtNotificarAntecedencia"
+        android:maxLength="3"
+        android:inputType="numberSigned"
+        android:hint="Dias de antecedência (Ex: 15)"
+        style="@style/EditText_Padrao" />
+
+
+    <Button style="@style/Botao_Padrao"
+        android:id="@+id/btSalvar"
+        android:text="@string/salvar"/>
+
+</LinearLayout>
+</ScrollView>

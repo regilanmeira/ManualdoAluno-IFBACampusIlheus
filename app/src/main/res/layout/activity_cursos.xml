@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView  android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fillViewport="true"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    >
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    style="@style/LayoutLinear"
+    tools:context="br.com.regilan.manualdoaluno_ifbacampusilheus.CursosActivity">
+
+    <TextView
+        android:id="@+id/tvTitulo"
+        style="@style/TextView_Titulo"
+        android:text="Título" />
+
+    <TextView
+        android:id="@+id/tvTexto"
+        style="@style/TextView_PadraoListView"
+        android:text="Texto_Titulo" />
+    <Button
+        style="@style/Botao_Padrao"
+        android:id="@+id/btAcessarDocumentos"
+        android:text="@string/acessar_planos_curso"/>
+
+</LinearLayout>
+</ScrollView>

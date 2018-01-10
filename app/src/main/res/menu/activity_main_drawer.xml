@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_mensagem_diretor"
+            android:icon="@drawable/ic_message_black_24dp"
+            android:title="@string/mensagem_diretor" />
+        <item
+            android:id="@+id/nav_o_instituto"
+            android:icon="@drawable/ic_business_black_24dp"
+            android:title="@string/o_instituto" />
+
+
+        <item
+            android:id="@+id/nav_agenda"
+            android:icon="@drawable/ic_event_black_24dp"
+            android:title="@string/agenda" />
+
+
+        <item android:title="@string/conheca_campus">
+
+            <menu>
+                <group android:checkableBehavior="single">
+
+                    <item
+                        android:id="@+id/nav_historico"
+                        android:icon="@drawable/ic_history_black_24dp"
+                        android:title="@string/historico" />
+
+                    <item
+                        android:id="@+id/nav_cursos"
+                        android:icon="@drawable/ic_school_black_24dp"
+                        android:title="@string/cursos" />
+
+                    <item
+                        android:id="@+id/nav_departamentos"
+                        android:icon="@drawable/ic_group_work_black_24dp"
+                        android:title="@string/departamentos" />
+
+                    <item
+                        android:id="@+id/nav_estrutura_fisica"
+                        android:icon="@drawable/ic_store_mall_directory_black_24dp"
+                        android:title="@string/estrutura_fisica"/>
+
+                    <item
+                        android:id="@+id/nav_ramais"
+                        android:icon="@drawable/ic_call_black_24dp"
+                        android:title="@string/ramais"/>
+
+                    <item
+                        android:id="@+id/nav_fotos"
+                        android:icon="@drawable/ic_photo_black_24dp"
+                        android:title="@string/fotos" />
+
+                </group>
+
+            </menu>
+
+        </item>
+
+        <item android:title="@string/manualAluno">
+            <menu>
+
+                <group android:checkableBehavior="single">
+
+                    <item
+                        android:id="@+id/nav_rotinas_academicas"
+                        android:icon="@drawable/ic_book_black_24dp"
+                        android:title="@string/rotina" />
+
+                    <item
+                        android:id="@+id/nav_direito_deveres"
+                        android:icon="@drawable/ic_assignment_black_24dp"
+                        android:title="@string/direitos_deveres" />
+
+                    <item
+                        android:id="@+id/nav_dicas"
+                        android:icon="@drawable/ic_dashboard_black_24dp"
+                        android:title="@string/dicas" />
+
+                    <item
+                        android:id="@+id/nav_assistencia"
+                        android:icon="@drawable/ic_people_black_24dp"
+                        android:title="@string/assistencia" />
+
+                    <item
+                        android:id="@+id/nav_docentes"
+                        android:icon="@drawable/ic_face_black_24dp"
+                        android:title="@string/docentes" />
+
+                    <item
+                        android:id="@+id/nav_taes"
+                        android:icon="@drawable/ic_face_black_24dp"
+                        android:title="@string/taes" />
+
+                    <item
+                        android:id="@+id/nav_estagios"
+                        android:icon="@drawable/ic_content_paste_black_24dp"
+                        android:title="@string/estagios" />
+
+                    <item
+                        android:id="@+id/nav_calendario"
+                        android:icon="@drawable/ic_date_range_black_24dp"
+                        android:title="@string/calendario" />
+
+                    <item
+                        android:id="@+id/nav_horarios"
+                        android:icon="@drawable/ic_access_time_black_24dp"
+                        android:title="@string/horarios" />
+
+                </group>
+
+            </menu>
+
+        </item>
+
+        <item android:title="@string/regulamentos">
+
+            <menu>
+
+                <group android:checkableBehavior="single">
+
+                    <item
+                        android:id="@+id/nav_plano_curso"
+                        android:icon="@drawable/ic_description_black_24dp"
+                        android:title="@string/plano_curso" />
+
+                    <item
+                        android:id="@+id/nav_org_didatica"
+                        android:icon="@drawable/ic_import_contacts_black_24dp"
+                        android:title="@string/org_ditatica" />
+
+                </group>
+
+            </menu>
+        </item>
+
+
+
+        <item
+            android:id="@+id/nav_pesquisa_extensao"
+            android:icon="@drawable/ic_youtube_searched_for_black_24dp"
+            android:title="@string/pesquisa_extensao" />
+
+        <item
+            android:id="@+id/nav_processo_seletivo"
+            android:icon="@drawable/ic_edit_black_24dp"
+            android:title="@string/processo_seletivo" />
+
+    </group>
+
+</menu>

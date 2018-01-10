@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal"
+    style="@style/LayoutLinear">
+
+
+    <TableLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+
+
+                <TextView
+                    android:id="@+id/tvNumero"
+                    style="@style/TextView_DestaqueListView"
+                    android:text="3101" />
+
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+
+                <TableLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content">
+
+
+                    <TableRow
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content">
+
+
+                        <TextView
+                            android:id="@+id/tvRamal"
+                            style="@style/TextView_PadraoListView"
+                            android:textStyle="bold"
+                            android:text="CGTI" />
+
+
+                    </TableRow>
+
+                    <TableRow android:layout_width="match_parent"
+                        android:layout_height="wrap_content">
+                        <TextView
+                            android:id="@+id/tvServidor"
+                            style="@style/TextView_PadraoListView"
+                            android:text="Hebert | Thales | Jorge Fabrício" />
+
+                    </TableRow>
+
+
+                </TableLayout>
+
+
+            </LinearLayout>
+
+
+        </TableRow>
+    </TableLayout>
+
+</LinearLayout>

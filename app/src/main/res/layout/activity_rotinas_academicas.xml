@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+   style="@style/LayoutLinear"
+    tools:context="br.com.regilan.manualdoaluno_ifbacampusilheus.RotinasAcademicasActivity">
+
+
+    <TextView
+        android:id="@+id/textView5"
+        style="@style/TextView_Titulo"
+        android:text="@string/rotina" />
+
+    <TextView
+
+        style="@style/TextView_DataListView"
+
+        android:text="Pressione sobre um item para visualizar a descrição." />
+
+    <ListView
+        style="@style/ListView_Padrao"
+        android:id="@+id/lvRotinasAcademicas"></ListView>
+</LinearLayout>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    style="@style/LayoutLinear">
+
+    <TableLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+
+                <TableLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content">
+
+
+                    <TableRow
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content">
+
+
+                        <TextView
+                            android:id="@+id/tvNome"
+                            style="@style/TextView_PadraoListView"
+                            android:text="Regilan Meira Silva"
+                            android:textStyle="bold"/>
+
+
+                    </TableRow>
+
+                    <TableRow
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content">
+
+                        <TextView
+                            android:id="@+id/tvEmail"
+                            style="@style/TextView_PadraoListView"
+                            android:text="regilan@ifba.edu.br" />
+
+                    </TableRow>
+
+                    <TableRow
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content">
+
+                        <TextView
+                            android:id="@+id/tvArea"
+                            style="@style/TextView_PadraoListView"
+                            android:text="Informática" />
+                    </TableRow>
+
+
+                </TableLayout>
+
+
+            </LinearLayout>
+
+
+        </TableRow>
+    </TableLayout>
+
+</LinearLayout>

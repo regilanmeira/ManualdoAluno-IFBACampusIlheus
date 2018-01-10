@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+   style="@style/LayoutLinear"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context="br.com.regilan.manualdoaluno_ifbacampusilheus.MainActivity"
+    tools:showIn="@layout/app_bar_main">
+
+    <TextView
+        android:id="@+id/textView5"
+        style="@style/TextView_Titulo"
+        android:text="@string/lista_tarefas" />
+
+
+    <TableLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            >
+            <TextView
+
+                style="@style/TextView_DataListView"
+                android:textColor="@color/colorAccent"
+                android:text="Vermelho: prazo expirado." />
+
+            <TextView
+
+                style="@style/TextView_DataListView"
+                android:textColor="@color/colorPrimary"
+                android:text="Verde: sinalizadas próximas a vencer." />
+
+        </TableRow>
+    </TableLayout>
+
+    <TextView
+
+        style="@style/TextView_DataListView"
+
+        android:text="Pressione sobre um item para removê-lo." />
+
+
+
+
+    <ListView
+        style="@style/ListView_Padrao"
+        android:id="@+id/lvTarefas"></ListView>
+
+</LinearLayout>

@@ -1,0 +1,346 @@
+<resources>
+    <!-- NOMES GERAIS DO APLICATIVO -->
+    <string name="app_name">IFBA Ilhéus</string>
+    <string name="app_name_header">Manual do aluno - Campus Ilhéus</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="sobre">Sobre o app</string>
+
+    <!-- MENU LATERAL -->
+    <string name="campus_ilheus">IFBA - Campus Ilhéus</string>
+    <string name="mensagem_diretor">Mensagem aos alunos</string>
+    <string name="mensagem_diretor_texto">
+        Estimados estudantes,\n\n
+O IFBA Câmpus Ilhéus nasceu com a expansão da Rede Federal de Educação Profissional em dezembro de 2010. Atualmente contamos com a presença de cerca de setecentos alunos matriculados, e desde o nosso início em 2011, temos uma trajetória voltada ao conhecimento através do ensino, pesquisa e extensão, ofertando cursos técnicos de nível médio nas modalidades integrado e subsequente e diversos trabalhos de pesquisas e projetos de extensão desenvolvidos pela nossa comunidade acadêmica. \n\n
+Nesta caminhada juntos precisaremos de perseverança, compromisso, responsabilidade e amor pela educação. Desejamos que ao longo de sua vida acadêmica, possam comprometer-se com esta Instituição e além das atividades de ensino, estejam envolvidos com os programas e projetos que oferecemos. \n\n
+Para isto, é importante que você tenha acesso as informações de nosso Campus e que acompanhe o cotidiano da Instituição através de nosso site institucional (http://www.ilheus.ifba.edu.br) e de nosso aplicativo Manual do Aluno.\n\n
+O IFBA Campus Ilhéus está de portas abertas e com a sua participação nós poderemos construir uma escola cada dia melhor. \n\nSejam bem vindos!
+
+
+    </string>
+
+    <!-- O ISTITUTO - TITULO -->
+    <string name="o_instituto">O Instituto</string>
+    <!-- O ISTITUTO - TEXTO -->
+    <string name="o_instituto_texto"> O Instituto Federal de Educação, Ciência e Tecnologia da Bahia (IFBA), criado pela Lei nº 11.892/2008, é resultado das mudanças promovidas no antigo Centro Federal de Educação Tecnológica da Bahia (Cefet-BA).\n\nÉ uma autarquia do Governo Federal e pertence à Rede Federal de Educação Profissional, Científica e Tecnológica do Ministério da Educação (MEC), que existe há 105 anos. Na Bahia, instituiu-se, em 1910, em Salvador, como a primeira Escola de Aprendizes Artífices, passando por endereços como Centro Operário da Bahia, no Pelourinho, Largo dos Aflitos e, em 1926, foi para o Barbalho, onde hoje funciona o câmpus Salvador. \n\nCom o passar dos anos, teve distintas denominações, como Liceu Industrial de Salvador, em 1937; Escola Técnica de Salvador – ETS, em 1942; Escola Técnica Federal da Bahia – ETFBA, em 1965; Centro Federal de Educação Tecnológica da Bahia – Cefet/BA (resultado da fusão entre Centec - Centro de Educação Tecnológica da Bahia e ETFBA), em 1993; até chegar ao atual IFBA, desde 2008. \n\nCom a última transformação, o Instituto passou a ter características bem peculiares, equipara-se às universidades federais; atua com a verticalização do ensino, pois oferta educação básica, profissional e superior; apresenta estrutura pluricurricular e multicampi; assume o papel de instituição acreditadora e certificadora de competências profissionais (Rede Certific).\n\nExpansão da Rede\n\nCom a proposta de contribuir para o desenvolvimento produtivo, social e cultural, o IFBA transforma realidades ao oferecer cursos distribuídos pelo território do Estado da Bahia.\n\nCom o desafio de interiorizar a educação profissional e superior, a qual esteve, durante muitos anos, concentrada em grandes centros urbanos, hoje o IFBA leva o ensino público, gratuito e de qualidade para 22 cidades da Bahia. Contamos com 17 câmpus e 5 Núcleos Avançados espalhados pelo Estado. Os câmpus novos de Lauro de Freitas e Santo Antônio de Jesus estão em fase final de construção.\n\nNossa Missão: “Promover a formação do cidadão histórico-crítico, oferecendo ensino, pesquisa e extensão com qualidade socialmente referenciada, objetivando o desenvolvimento sustentável do país”. \n
+</string>
+
+    <!-- CONHEÇA O CAMPUS - TITULO -->
+    <string name="conheca_campus">Conheça o campus</string>
+
+    <!-- O HISTORICO - TITULO -->
+    <string name="historico">Histórico</string>
+    <!-- O HISTORICO - TEXTO -->
+    <string name="historico_texto">A rede de "IF's, antigos "CEFETs", está distribuída por todas as regiões do país, possuindo um conjunto de cursos voltados para formação profissional de acordo com o perfil da região na qual está localizado.\n\nO Campus Ilhéus nasceu com a expansão da Rede Federal de Educação Profissional em dezembro de 2010. O Campus iniciou suas atividades em 2011 com o desenvolvimento de dois projetos de extensão: Pró-IFBA - curso: preparatório para o ingresso no IFBA Campus Ilhéus, ofertado a estudantes das escolas públicas dos municípios de Ilhéus e Itabuna e o projeto Mulheres Mil, que visa integrar mulheres ao mundo do trabalho através da oferta de cursos de curta duração.\n\nEm 2012, o Campus iniciou os cursos nas modalidades de Ensino médio Integrado e Subseqüente ao Ensino Médio nas seguintes áreas:\n\n- Técnico em Informática;\n- Técnico em Segurança do Trabalho\n- Técnico em Edificações\n\nO câmpus Ilhéus já ofertou além dos cursos integrados e subsequentes de técnico de nível médio, cursos de formação inicial e continuada visando a proﬁssionalização de curta e média duração através dos programas:\n\n- PRONATEC - Programa Nacional de Acesso ao Ensino Técnico e Emprego.\n\n- PROFUNCIONÁRIO - Programa de Formação Inicial em Serviço dos Proﬁssionais da Educação Básica dos Sistemas de Ensino Público.\n\n- MULHERES MIL - Programa do Governo Federal que se destina a capacitar mulheres de baixa renda em atividades produtivas vinculadas às vocações econômicas das regiões.</string>
+
+    <!-- CURSO - TITULO -->
+    <string name="cursos">Cursos</string>
+    <!-- CURSO - TEXTO -->
+    <string name="cursos_texto">Os cursos técnicos do IFBA são cursos voltados para o mercado de trabalho, onde o aluno poderá adquirir conhecimentos avançados na área profissional correspondente ao curso que escolher.\n\nNo Instituto Federal da Bahia são oferecidos duas vertentes:\n\n
+- Cursos Técnicos Subsequentes, onde o aluno deverá possuir o ensino médio completo, por isso a palavra subsequente, pois estes cursos são subsequentes ao ensino médio com carga horária dividida em 2 anos.\n\n
+- Cursos Técnicos Integrados ao Ensino Médio, são cursos que ofertam tanto as matérias específicas do curso técnico escolhido como também as matérias básicas do ensino médio padrão, como português e matemática. A carga horária é dividida em 4 anos.\n\n
+Os Cursos Técnicos ofertados na Modalidade Subsequente no Campus Ilhéus são:\n\n- Técnico em Informática\n- Técnico em Segurança do Trabalho\n- Técnico em Edificações\n\nOs Cursos Técnicos ofertados na Modalidade Integrada no Campus Ilhéus são:\n\n
+- Técnico em Informática\n
+- Técnico em Segurança do Trabalho\n
+- Técnico em Edificações\n\n
+</string>
+
+    <string name="acessar_planos_curso">Acessar planos de curso</string>
+
+    <!-- DEPARTAMENTO - TITULO -->
+    <string name="departamentos">Departamentos</string>
+    <!-- DEPARTAMENTO - TEXTO -->
+    <string name="departamentos_textos">O câmpus Ilhéus possui setores com atribuições diferenciadas que atende aos estudantes, seus familiares e a comunidade de modo geral a respeito da gestão administrativa, cursos e programas, organização escolar, organização do trabalho pedagógico, política de assistência ao estudante e normas e regulamentos e demais assuntos inerentes à uma instituição educativa.   Diante de qualquer necessidade vivenciada no cotidiano do câmpus, o estudante e seus pais ou responsáveis deverão procurar orientação junto aos seguintes setores:\n\nDireção Geral – DG: Responsável pela gestão do câmpus. Deve ser procurada sempre que o estudante tiver necessidade,para fazer reclamações ou denúncias, opinar sobre a gestão do câmpus, encaminhar críticas dando sugestões, fazer reivindicações,discutir assuntos do grêmio estudantil, discutir questões e/ou problemas ligados ao pleno funcionamento do câmpus ou quaisquer outros assuntos de âmbito geral que interﬁram no processo ensino aprendizagem;\n\nDepartamento de Ensino – DE: Gerencia a política de ensino no âmbito geral da escola. A ele estão subordinadas todas as coordenações e deverá ser procurado sempre que o aluno não se sentir bem atendido ou ainda tiver dúvidas após a procura dos setores ou se sentir violado nos seus direitos.Compete ao DE a aplicação de sanções disciplinares, após o encaminhamento realizado pela assistência de alunos;\n\n
+        Coordenações de curso (TI, TST e TED): Atende aos alunos esclarecendo dúvidas quanto a objetivos, programas, planos de curso e ementas, mercado de trabalho, estágios curriculares, recebe e delibera acerca dos requerimentos de avaliações em 2ª chamada e recursos impetrados, questões relativas a docência e quaisquer especiﬁcidades relativas ao curso;\n\n
+        Coordenação de Pesquisa e Extensão – COPEX: Deverá ser procurada sempre que o estudante necessitar de esclarecimentos acerca dos programas de pesquisa e extensão implementados pelo Instituto, bem como, bolsas ofertadas por órgãos internos e externos.\n\n
+        Coordenação de Estágio: Orienta os procedimentos para a realização do estágio supervisionado obrigatório, ﬁrma convênio e parcerias com empresas e outros órgãos para ﬁns de estágio, é responsável pelo encaminhamento dos estudantes para realização do estágio supervisionado obrigatório, orienta os estudantes sobre o reconhecimento da prática proﬁssional como objeto de avaliação e esclarece quaisquer dúvidas relacionadas ao estágio.\n\n
+        Coordenação Técnico-Pedagógica– COTEP: Presta assessoria ao DE e deverá ser procurada pelos estudantes e suas famílias para esclarecimentos e orientações acerca dos processos de ensino e aprendizagem, dentre eles, questões relativas a avaliação, estratégias de ensino, relação professor- aluno, orientação aos estudos individuais em grupo e demais questões didático – pedagógicas vivenciadas nas práticas cotidianas.\n\n
+        Coordenação Técnica de Serviço Social - COTESS: Presta serviço social, orientando indivíduos, família e a comunidade do IFBA sobre direitos e deveres (normas, serviços e recursos da comunidade); articula recursos ﬁnanceiros do Programa de Assistência Estudantil - PAAE, acompanhando os estudantes conforme demanda encaminhada, construindo formas e alternativas de enfrentamento das questões sociais (visitas domiciliares e institucionais).\n\n
+        Assistência de alunos: responsável pela observação dos estudantes frente à dinâmica do dia-a-dia da Instituição. Orienta, apoia, organiza, providencia, acompanha, registra e encaminha questões do cotidiano de professores e estudantes. Deve ser solicitada sempre que surgirem ocorrências envolvendo os estudantes, fazendo os encaminhamentos adequados aos setores competentes.\n\n
+        Coordenação de Registros Escolares - CORES: deverá ser procurada para retirada de documentos, tais como: transferências, histórico escolar, certiﬁcados e diplomas, informações sobre certiﬁcação do ENEM, além de matricula, trancamentos do curso, recebimento de solicitação de avaliações em 2ª chamada, confecção de diários e retirada de boletins de notas da unidade.\n\n
+        Biblioteca: é responsável pela orientação sobre o uso e a frequência à biblioteca, empréstimos de livros, posturas durante os momentos de frequência a biblioteca, aquisição de carteirinha de usuários da biblioteca, orientações sobre a reprodução de material didático; fornecimento de atestados de que não constam pendências, além de orientações às pesquisas e estudos.\n\n
+        Protocolo Geral: O estudante deve se dirigir sempre ao protocolo para oﬁcializar suas solicitações e entrega de documentos, tais como: transferência, diplomas, certiﬁcados, trancamento de matrícula, aproveitamento de estudos, requerimento de revisão da avaliação, 2ª chamada de avaliações, recursos à decisão do Conselho de Classe, entrega de atestados médicos (prazo de entrega até 48 horas após o término do afastamento) e solicitação de exercício domiciliar.\n\n
+        Representante de turma: Este representará a sua turma, inclusive nos Conselhos Diagnósticos, de Classe e Conselho Final. Também levará após reuniões com seus colegas as demandas elencadas pela turma para os diversos setores da escola.</string>
+
+    <!-- ESTRUTURA FISICA - TITULO -->
+    <string name="estrutura_fisica">Estrutura Física</string>
+    <!-- ESTRUTURA FISICA - TEXTO -->
+    <string name="estrutura_fisica_texto">O IFBA Campus Ilhéus, localizado na Rodovia Ilhéus-Itabuna km 13, no bairro Vila Cachoeira, iniciou as atividades em 2011 com dois blocos: ensino e administrativo. Ao longo dos anos foram incorporados novos prédios como o ginásico esportivo e o novo pavilhão de aulas.\n\nAtualmente a nossa estrutura física dispõe de:\n\n
+- Auditório com capacidade para 136 pessoas sentadas\n
+- Sala de video conferência\n
+- Laboratório de Química\n
+- Laboratório de Física\n
+- Laboratório de Biologia\n
+- Laboratório de Informática\n
+- Laboratório de Manutenção de Computadores\n
+- 23 salas de aulas\n
+- Biblioteca\n
+- Ginásio esportivo\n
+- Academia de ginástica\n
+- Refeitório\n\n
+Além da estrutura física, o campus possui veículos para apoio as atividades estudantis, como micrônibus e van, que transportam  alunos para visitas técnicas e outras
+        atividades externas ao IFBA Campus Ilhéus.</string>
+
+
+    <!-- RAMAIS - TITULO -->
+    <string name="ramais">Lista de Ramais</string>
+
+    <!-- RAMAIS - TITULO -->
+    <string name="fotos">Fotos</string>
+
+
+    <!-- MANUAL DO ALUNO -->
+    <string name="manualAluno">Manual do Aluno</string>
+
+    <!-- ROTINAS ACADÊMICAS - TITULO MENU -->
+    <string name="rotina">Rotinas Acadêmicas</string>
+
+
+    <!-- TRANCAMENTO MATRICULA - TITULO -->
+    <string name="trancamento_matricula">Trancamento de matrícula</string>
+    <!-- TRANCAMENTO MATRICULA - TEXTO -->
+    <string name="trancamento_matricula_regras">Para interrupção temporária dos estudos, poderá ser concedido o trancamento de matrícula por um período letivo aos estudantes
+        dos cursos na forma subsequente que já tenham cursado e concluído o 1º módulo\n\n.Aos estudantes dos cursos na forma integrada ao final de um ano letivo, mediante análise do
+        Conselho de Curso,respeitados os ditames da legislação específica vigente, bem como, os prazos estabelecidos pelo
+        calendário acadêmico divulgado pelo câmpus. </string>
+
+    <!-- RENOVAÇÕA DE MATRICULA - TITULO -->
+    <string name="renovacao_matricula">Renovação de matrícula</string>
+    <!-- TRANCAMENTO MATRICULA - TEXTO -->
+    <string name="renovacao_matricula_regras">A matrícula será efetivada nas instalações do IFBA, em período previamente fixado no calendário
+        acadêmico, podendo ser efetuada pelo estudante ou seu procurador legalmente constituído.\n\nPara efetivar a renovação da matrícula, o estudante ou seu procurador legal, deverá apresentar à Coordenação de
+        Registros Escolares-CORES os seguintes documentos:\n\n
+   I. Declaração de quitação com a biblioteca (nada consta);\n
+   II. Nome e CPF do beneficiário para fins de seguro.\n\nObs.: O estudante que estiver em débito com a biblioteca e com pendência de documentos não poderá renovar a matrícula.</string>
+    <!-- AVALIACAO APRENDIZADO - TITULO -->
+    <string name="avaliacao">Avaliação de aprendizado</string>
+    <!-- AVALIACAO APRENDIZADO - TEXTO -->
+    <string name="avaliacao_regras">A verificação do desempenho acadêmico será feita de forma diversificada, a mais variada possível, de acordo com a peculiaridade de cada processo
+educativo, contendo entre outros:\n\n
+I- atividades individuais e em grupo, como: pesquisa bibliográfica,demonstração prática e seminários;\n
+II- pesquisa de campo, elaboração e execução de projetos;\n
+III- provas escritas e/ou orais: individual ou em equipe;\n
+IV- produção científica, artística ou cultural.\n\n
+Parágrafo Único Ao professor compete divulgar, aos seus alunos, o resultado de cada avaliação antes da avaliação seguinte.\n\n
+O estudante terá direito à revisão da avaliação, através de requerimento à Coordenação do Curso, no prazo de 48 (quarenta e oito) horas após a divulgação do resultado.\n\n
+    </string>
+
+    <!-- SEGUNDA CHAMADA - TITULO -->
+    <string name="segunda_chamada">Segunda chamada</string>
+    <string name="segunda_chamada_regras">Ao estudante que faltar a qualquer das verificações de aprendizagem ou deixar de executar trabalho escolar, será facultado o direito à segunda chamada se esse estudante a requerer, no prazo de 48 (quarenta e oito) horas úteis após o término do prazo de afastamento, desde que comprove através de documentos. \n\n
+Caberá à Coordenação do Curso emitir parecer acerca do direito do estudante à segunda chamada, enquadrado nas situações estabelecidas nos incisos de I a VIII do Art. 50 da Organização Didática
+    </string>
+
+    <string name="frequecia_aprovacao">Frequência para aprovação</string>
+    <string name="frequecia_aprovacao_regras">Será considerado aprovado na etapa do curso o estudante que tiver nota igual
+        ou superior a 6 (seis) em todas as disciplinas ou competências e possuir freqüência igual ou superior a
+        75 (setenta e cinco por cento) do total de horas desenvolvidas na etapa do curso.\n\n
+        Será reprovado por falta o estudante que tiver freqüência inferior a 75  (setenta e cinco por cento) e
+        superior a 50 (cinqüenta por cento)
+    </string>
+
+    <string name="revisao_notas">Revisão de notas</string>
+    <string name="revisao_notas_regras">O estudante terá direito à revisão da avaliação, através de requerimento à Coordenação do Curso, no prazo de 48 (quarenta e oito) horas após a divulgação do resultado.\n\n
+Para análise do pedido deverá ser criada uma comissão com a seguinte composição:\n\n
+a) Coordenador(a) do Curso;\n
+b) professor da disciplina ou competência;\n
+c) outro professor da área de conhecimento da referida disciplina ou competência.\n\n
+Após a emissão do parecer, a Coordenação do Curso encaminhará o processo à GRA, na Sede, ou à CORES, nas UE, para dar ciência ao requerente.
+    </string>
+
+    <string name="aproveitamento_estudos">Aproveitamento de estudos</string>
+    <string name="aproveitamento_estudos_regras">
+        Entende-se por aproveitamento de estudos o processo de reconhecimento de disciplinas,
+        competências ou etapas cursadas com aprovação em cursos da Educação Proﬁssional Técnica de Nível Médio,
+        Ensino Médio (EPTNM) ou Cursos Superiores, desde que diretamente relacionados com o perﬁl proﬁssional de conclusão da
+        respectiva qualiﬁcação ou habilitação proﬁssional, cursados em uma habilitação especíﬁca,
+        com aprovação no IFBA ou em outras instituições de ensino da EPTNM, credenciadas pelo Ministério da Educação,
+        bem como instituições estrangeiras, para a obtenção de habilitação diversa, conforme estabelece o Art. 11 da Resolução CNE/CEB nº 04/99.\n\n
+        A solicitação para aproveitamento de estudos deverá ser encaminhada ao protocolo geral que se encarregará de
+        encaminhar ao Conselho de Curso para análise e emissão de parecer ﬁnal.\n\n
+        A CORES dará publicidade ao resultado ﬁnal da solicitação.
+    </string>
+
+    <string name="perda_vaga">Perda à vaga</string>
+    <string name="perda_vaga_regras">O estudante perderá o direito à renovação de matrícula quando:\n\n
+I- tiver concluído todos os componentes curriculares de seu curso, conforme estabelecido no Plano de Curso;
+II- tiver deixado de se matricular em um ou mais períodos letivos;\n
+III- tiver sido reprovado por duas vezes consecutivas na mesma etapa do curso e o Conselho de Curso tiver emitido parecer desfavorável à sua renovação de matrícula;\n
+IV- tiver sido reprovado por freqüência;\n
+V- tiver transcorrido o prazo máximo fixado para a integralização do curso;\n
+VI- comprovada irregularidade na matrícula conforme o disposto no Art. 13 da Organição didática;\n
+VII- em decorrência de motivos disciplinares que resultem em desligamento da Instituição, conforme o Regimento Interno.\n\n
+O estudante enquadrado no inciso item II poderá requerer reintegração no curso em prazo fixado no Calendário Acadêmico, desde que não esteja na 1ª etapa do curso, de acordo com o estabelecido no Art. 43 do Capitulo VII da Organização Didática.
+</string>
+
+    <string name="formas_ingresso">Forma de ingresso</string>
+    <string name="formas_ingresso_regras">O ingresso aos cursos do IFBA é realizado de acordo com as normas emanadas do Conselho de Ensino, Pesquisa e Extensão, atendido o que dispuserem o
+Regimento Interno, a legislação vigente e o Plano de cada curso aprovado pelo Conselho Diretor.\n\n
+Em geral a entrada de alunos no IFBA ocorre através de processo seletivo anual para os cursos técnicos e através do SISU para os cursos de nível superior.
+    </string>
+
+    <string name="conselho_classe">Conselhos de classe</string>
+    <string name="conselho_classe_regras">No Conselho de Classe Final será confeccionada a Ata contendo a Planilha de Resultados Finais com a carga horária total desenvolvida no período letivo, nota final dos estudantes em cada disciplina ou competência, o percentual de freqüênciae a respectiva condição de competência obtida no período letivo, assim definida:\n\n
+    a) Aprovado (AP);\n
+    b) Reprovado (RP);\n
+    c) Aprovado pelo Conselho (AC);\n
+    d) Reprovado por falta (RF);\n
+    e) Abandono (AB);\n
+    f) Evasão (EV);\n
+    g) Trancamento (TR)\n\n
+    Será considerado aprovado na etapa do curso o estudante que tiver nota igual ou superior a 6,0 (seis) em todas as disciplinas ou competências e possuir freqüência igual ou superior a 75 (setenta e cinco por cento) do total de horas desenvolvidas na etapa do curso.\n\n
+    O Conselho de Classe Final, após análise e discussão, também poderá aprovar o estudante que possuir freqüência igual ou superior a 75 (setenta e cinco por cento) do total de horas desenvolvidas na etapa do curso e tiver, no mínimo: \n\n
+    a) média igual ou superior a 5,0 (cinco) em no máximo 02 disciplinas e freqüência mínima de 75 (setenta e cinco por cento) na(s) disciplina(s) em questão;\n
+    b) média igual ou superior a 4,0 (quatro) em apenas 01 disciplina e freqüência mínima de 75 (setenta e cinco por cento) na disciplina em questão. \n
+    c) Qualquer caso extraordinário a estes critérios deverá ser avaliado pelo Conselho de Classe, considerando a anuência de 2/3 (dois terços) dos conselheiros e conselheiras presentes.
+    </string>
+
+
+    <string name="diploma">Diploma</string>
+    <string name="diploma_regras">Para obtenção do diploma de técnico de nível médio, o estudante deverá concluir todas as etapas do curso estabelecidas no Plano de Curso. Para os cursos que tiverem definido, em seu Plano de Curso, o estágio curricular como obrigatório, o diploma só poderá ser expedido após a conclusão e aprovação no estágio.\n\n
+A solicitação do diploma deve ser protocolados no Setor de Protocolo ou equivalente.</string>
+
+
+    <string name="direitos_deveres">Direitos e Deveres</string>
+    <string name="direitos_deveres_regras">
+        Constituem o Corpo Discente do IFBA, os alunos regularmente matriculados nos cursos oferecidos.\n\nDos
+        direitos do estudante:\n\nI. Participar das atvidades escolares, sociais, cívicas, culturais e recreativas destinadas à
+        sua formação e promovidas pela Escola;\n\nII. Ser tratado com respeito, atenção e urbanidade pela direção, professores, funcionários
+        e colegas;\n\nIII. Representar, em termos, e por escrito, contra atitudes, omissões ou deficiências de
+        professores, funcionários e serviços da escola;\n\nIV. Utilizar-se da biblioteca e dos laboratórios nos termos do regulamento, normas
+        próprias e regimento disciplinar;\n\nV. Tomar conhecimento de notas obtidas e de sua frequência;\n\nDos
+        deveres do estudante:\n\nI. Participar ativamente do processo ensino-aprendizagem;\n\nII. Acatar o regime didático
+        e disciplinar da instituição, bem como a sua organização administrativa;\n\nIII. Frequentar com assiduidade e
+        pontualidade as aulas e as demais atvidades escolares devidamente uniformizados;\n\nIV. Manter boa conduta, zelando pelo nome da escola,
+        dentro e fora dela;\n\nV. Cumprir as determinações da direção, dos departamentos, das coordenações, dos
+        professores e dos técnicos nas respectivas órbitas de competência;\n\nVI. Observar fielmente os preceitos de
+        higiene individual e coletiva;\n\nVII. Zelar pela limpeza e conservação das instalações, dependências, materiais, móveis,
+        utensílios, maquinários, ressarcindo a insƟtuição do prejuízo que causar;\n\nVIII. Tratar com urbanidade e
+        respeito à direção, coordenadores, professores e demais autoridades de ensino,
+        funcionários e colegas;\n\nIX. Esforçar-se para apresentar todas as aƟvidades didáticas solicitadas nos prazos
+        estabelecidos, assim como em adquirir todo o material didático recomendado;\n\nX. Comparecer às solenidades e atvidades
+        cívicas e sociais, esportivas e recreativas promovidas pela instituição e participar das
+        mesmas ou daquelas em que a esta tome parte.
+    </string>
+
+    <string name="dicas">Dicas importantes</string>
+    <string name="dicas_texto">Há algumas orientações que podem ajudar na condução do seu itinerário acadêmico e êxito de seus estudos:\n\n
+- Constitua o hábito de estudar diariamente, independente de atividades prescritas pelos professores;\n
+- Estabeleça diariamente um tempo para estudar individualmente;\n
+- Procure um ambiente tranquilo para estudar, organize e planeje seu tempo de estudo fazendo uso eficiente dele;\n
+- Leia atentamente todo o conteúdo, tentando compreender o assunto, se necessário por mais de uma vez, utlizando estratégias como: fazer perguntas e respostas, fazer fichamentos, discutr o conteúdo em voz alta, se possível, gravando;\n
+- Procure não depender de uma só fonte de informações sobre o assunto estudado;\n
+- Organize resumo e anotações (encontre a forma mais apropriada para você; texto, lista, gráfico, esquema, tabela, fluxograma, etc.), apontando e relacionando as idéias, principais e secundárias; \n
+- Procure rever periodicamente os assuntos estudados. \n
+- Dê importância a todos os componentes curriculares: não esqueça artes, educação física, língua estrangeira e disciplinas técnicas são componentes curriculares obrigatórios e ajudam na construção de competências fundamentais para o mundo do trabalho, portanto não as negligencie; tenha com as mesmas o compromisso e a dedicação com que atua frente aos outros componentes do currículo.\n- Não esqueça que fez a opção por um curso técnico integrado ao ensino médio. As disciplinas técnicas são fundamentais para sua aprovação anual e para a conclusão do seu curso.</string>
+
+    <string name="assistencia">Apoio ao estudante</string>
+    <string name="assistencia_regras">Ao ingressar no Instituto Federal da Bahia, câmpus Ilhéus o estudante conta com uma série de serviços, visando um melhor aproveitamento de sua vida acadêmica dentro da instituição. Informações gerais podem ser obtidas através do apoio administrativo da Diretoria Acadêmica – DAC, que instrui o discente a qual setor o mesmo deve se dirigir para ter sua demanda melhor apreciada.\n\n
+    Além da estrutura oferecida pelas coordenações de curso, o estudante conta com uma equipe multidisciplinar atrelado a Coordenação Geral de Apoio ao Ensino-Aprendizagem e Programas Estudantis, que está pronta para atendê-lo nas diferentes fases de seu aprendizado e desenvolvimento na instituição. Temos dentro dessa equipe uma gama de profissionais variados, aos quais incluem: Pedagogo, Assistente Social, Psicólogo, Assistente de Aluno, Tradutor e Intérprete de Língua de Sinais, Nutricionista e Docentes, que enquanto grupo tenta viabilizar a permanência dos estudantes, tornando sua trajetória a mais proveitosa possível. Abaixo fazemos uma breve descrição de algum desses setores.\n\n
+    Coordenação Técnico-Pedagógica – COTEP: Presta assessoria a Diretoria Acadêmica e deverá ser procurada pelos estudantes e suas famílias para esclarecimentos e orientações acerca dos processos de ensino e aprendizagem, dentre eles, questões relativas à avaliação, estratégias de ensino, relação professor-aluno, orientação aos estudos individuais em grupo e demais questões didático – pedagógicas vivenciadas nas práticas cotidianas\n\n
+    Coordenação Técnica de Serviço Social – COTESS: Presta serviço social, orientando indivíduos, família e a comunidade do IFBA objetivando a garantia de direitos (articula a rede de serviços e recursos na comunidade); Atua na gestão do Programa de Assistência e Apoio ao Estudante - PAAE para garantir a permanência e pleno desenvolvimento do estudante no IFBA, acompanhando-os conforme demanda apresentada, construindo formas e alternativas de enfrentamento das questões sociais (visitas domiciliares e institucionais). Elabora projetos sociais conforme analise de indicadores das demandas do IFBA.\n\n
+    Assistência de alunos: responsável pela observação dos estudantes frente à dinâmica do dia-a-dia da Instituição. Orienta, apoia, organiza, providencia, acompanha, registra e encaminha questões do cotidiano de professores e estudantes. Deve ser solicitada sempre que surgirem ocorrências envolvendo os estudantes, fazendo os encaminhamentos adequados aos setores competentes.\n\n
+    Psicólogo: O psicólogo tem como atribuições estudar, pesquisar e avaliar o desenvolvimento emocional e os processos mentais e sociais de indivíduos e grupos, com a finalidade de análise, tratamento, orientação e educação; diagnosticar e avaliar distúrbios emocionais e mentais e de adaptação social, elucidando conflitos e questões e acompanhando o(s) discente(s) durante o processo de tratamento; investigar os fatores inconscientes do comportamento individual e grupal, tornando-os conscientes; desenvolvem pesquisas experimentais, teóricas e clínicas e coordenar equipes e atividades de área e afins. Assessorar nas atividades de ensino, pesquisa e extensão.\n\n
+    Nutricionista: Atuar em programas como o PNAE e PAAE. Prestar assistência nutricional a indivíduos e coletividades (sadios e enfermos); organizar, administrar e avaliar unidades de alimentação e nutrição; efetuar controle higiênico-sanitário; participar de programas de educação nutricional; ministrar cursos. Atuar em conformidade ao Manual de Boas Práticas. Assessorar nas atividades de ensino, pesquisa e extensão.\n\n
+    Tradutor/Intérprete de Linguagem de Sinais: O Tradutor/Intérprete de Linguagem de Sinais tem como atribuições traduzir e interpretar artigos, livros, textos diversos de um idioma para o outro, bem como traduzir e interpretar palavras, conversações, narrativas, palestras, atividades didático-pedagógicas em outro idioma, reproduzindo Libras ou na modalidade oral da Língua Portuguesa o pensamento e intenção do emissor. Assessorar nas atividades de ensino, pesquisa e extensão.\n\n
+    Equipe de profissionais:\n\n
+    Coordenador: Danilo Almeida Souza\n\n
+    Assistente de Alunos: Jaqueline Souza Lourimer, Jefferson Flávio Feitosa Gramacho, Ianna Cerqueira Santos\n\n
+    Assistente Social: Suede Mayne Pereira Araújo\n\n
+    Pedagogo: Girlene Écio Damasceno Dias, Roberto Pereira de Almeida\n\n
+    Nutricionista: Rita de Cássia Pereira Magalhães, Isânia Nunes Armede\n\n
+    Psicólogo: Carlos Eduardo dos Santos Bomfim\n\n
+    Tradutor/Intérprete de Linguagem de Sinais: Gabriel dos Santos Machado.
+    </string>
+
+    <string name="docentes">Quadro de Docentes</string>
+
+    <string name="estagios">Estágios</string>
+    <string name="estagios_regras">O estágio curricular constitui-se em atividade obrigatória realizada sob supervisão, orientação do coordenador do estágio e professores orientadores. Visa possibilitar a integração teórico- prática através de um período de vivência do aluno em situações que venham auxiliar no processo de formação profissional. O estágio deve proporcionar experiências referentes às áreas de atuação profissional e relacionar os aspectos técnicos-científicos com os sociais e humanos.\n\n
+    Responsável pela coordenação de estágio: Prof. Cacio Costa da Silva\n\n
+        Atribuições da COEST:\n\n
+a) Coordenar a expedição e assinatura dos convênios com as entidades receptoras e o IFBA;\n\n
+b) Identificar, assegurar e divulgar as oportunidades de Estágio Curricular;\n\n
+c) Fornecer um guia de orientação de estágio às empresas conveniadas;\n\n
+d) Prestar serviços administrativos de cadastramento de alunos e orientá-los com relação aos encaminhamentos de toda documentação necessária para efetivação;\n\n
+e) Promover palestras com os candidatos a estágio para informá-los quanto ao processo de Estágio Curricular;\n\n
+f) Promover reuniões semestrais com os professores orientadores de estágio;\n\n
+g) Assegurar a legalidade do processo de Estágio Curricular.\n\n
+O primeiro passo para realizar o estágio envolve o preenchimento das fichas de convênio de estágio, termo de compromisso e plano de atividade de estágio. A ficha de convênio é um documento assinado em duas vias: empresa e escola. O termo de compromisso é um termo que é assinado em três vias: escola, empresa e discente.\n\n
+O discente que fará o estágio deve possuir um professor orientador que é o responsável pela elaboração do plano de estágio, por visitar o local de estágio, realizar as entrevistas, corrigir o relatório e entregar a nota final para COEST.\n\n
+O supervisor de estágio é a pessoa que deve acompanhar as atividades, auxiliando o estagiário no desenvolvimento de suas tarefas na empresa e ao final do processo este deve avaliar o estagiário.\n\n
+A nota final de estágio corresponde a média das avaliações do supervisor, das entrevistas e da avaliação do relatório pelo orientador.\n\n
+O estudante deve ficar atento ao total de horas necessário para a realização do estágio, pois para cada curso e modalidade podem existir carga-horária diferentes.
+    </string>
+
+    <string name="acessar_documentos">Acessar documentos</string>
+
+    <string name="calendario">Calendário Acadêmico</string>
+
+    <string name="horarios">Horários</string>
+
+    <!-- REGULAMENTOS -->
+    <string name="regulamentos">Regulamentos</string>
+
+    <string name="plano_curso">Plano de Curso</string>
+
+    <string name="org_ditatica">Organização Didática</string>
+    <string name="org_ditatica_texto">A Organização Didática dos cursos ofertados pelo IFBA está em consonância com a Lei de Diretrizes e Bases da Educação Nacional (LDB), Lei nº. 9.394, de 20 de dezembro de 1996, suas regulamentações, pareceres, as diretrizes curriculares nacionais e o plano de cesenvolvimento institucional (PDI), e regerá todos os procedimentos didático-pedagógico-administrativos de todos os campi do Instituto Federal de Educação, Ciência e Tecnologia da Bahia.\n\n
+Neste documento encontramos informações sobre período letivo, matrícula, mudança de turnos, conselhos, regime disciplinar, prática profissional e disposições gerais sobre os cursos ofertados no IFBA.</string>
+
+
+    <string name="agenda">Agenda de Atividades</string>
+    <string name="pesquisa_extensao">Pesquisa e Extensão</string>
+    <string name="pesquisa_extensao_texto">
+        PESQUISA\n\n
+        O IFBA Campus Ilhéus participa de editais de fomento à pesquisa que oferta bolsas nas seguintes modalidades:\n\n
+        PIBIC-EM: Iniciação Científica para alunos de nível médio/técnico.\n
+        Financiamento: IFBA e CNPq.\n\n
+        PIBIC-Jr: Iniciação Científica para alunos de nível médio/técnico.\n
+        Financiamento: IFBA e FAPESB.\n\n
+        Os programas visam despertar a vocação científica e incentivar talentos potenciais entre estudantes do ensino fundamental, médio e profissional, mediante sua participação em atividades de pesquisa científica ou tecnológica.\n\n
+        EXTENSÃO\n\n
+        A extensão no IFBA Campus – Ilhéus, tem as seguintes metas:\n\n
+        1. Realizar encontros presenciais e à distância com a PROEX;\n
+        2. Formalização de termos de cooperação, protocolo de intenções, convênios com instituições da região;\n
+        3. Apoiar a realização do Curta 5;\n
+        4. Apoiar os eventos ligados ao JIFBA e aos JIF;\n
+        5. Participar de Editais para captação de recursos externos e divulgar os demais editais ligados à Extensão;\n
+        6. Apoiar as ações do Escritório de Projetos de Edificações (Epedi);\n
+        7. Estimular a oferta de cursos e eventos por parte dos servidores do Campus Ilhéus;\n
+        8. Estimular e apoiar projetos de Extensão que sejam realizados no âmbito do Campus ou na comunidade onde a instituição está inserida;\n\n
+        O Campus possui alguns projetos de fluxo contínuo como:\n\n
+        - IF Boação;\n
+        - Trabalhando a Sexualidade na Escola;\n
+        - Projeto Apprender;\n
+        - Ciência Interativa;\n
+        - Lutas: Educação, Cidadania e Qualidade de Vida;\n
+        - Prevenção ao uso de Drogas no Espaço Escolar e Acolhimento de estudantes em Situação de risco;
+    </string>
+    <string name="processo_seletivo">Processo Seletivo</string>
+    <string name="processo_seletivo_texto">Somos o Instituto Federal de Educação, Ciência e Tecnologia da Bahia - IFBA. Há mais de 100 anos oferecemos ensino público, gratuito e de qualidade: já fomos a Escola Técnica Federal e o CEFET. \n\n
+Venha construir seu futuro com a gente!\n\n
+As inscrições já estão abertas. Fique por dentro do cronograma, saiba o que vai cair na sua prova, entenda o sistema de reserva de vagas e conheça os cursos ofertados nos campis do IFBA.\n\n
+</string>
+    <string name="acessar_prosel">Acessar Prosel 2018</string>
+    <string name="title_activity_menu_global">MenuGlobalActivity</string>
+
+    <string name="action_settings">Configurações</string>
+    <string name="title_activity_sobre">Sobre o app</string>
+    <string name="large_text">
+        Este guia tem por finalidade informar e orientar os alunos e seus responsáveis sobre funcionamento do Instituto Federal da Bahia - Campus Ilhéus.\n\nAqui estão contidas informações e procedimentos referentes a horários, calendário, avaliações, regulamentos, conselhos, planos de cursos, direitos e deveres do aluno e outras normas relativas a sua vida escolar. \n\n Desenvolvedor responsável: Prof. Regilan Meira Silva
+    </string>
+
+    <string name="lista_tarefas">Lista de tarefas</string>
+    <string name="adicionar_tarefas">Adicionar tarefas</string>
+    <string name="salvar">Salvar</string>
+    <string name="data_tarefa">Data da tarefa</string>
+    <string name="descricao_tarefa">Descrição da tarefa</string>
+
+    <string name="msg_preencha_campos">Existem campos sem preenchimento de valores</string>
+    <string name="notificarTarefa">Sinalizar tarefa (notificar) com antecedência de:</string>
+
+    <string name="taes">Quadro de TAEs</string>
+
+</resources>

@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "218911329318",
+    "firebase_url": "https://manual-do-aluno-ad180.firebaseio.com",
+    "project_id": "manual-do-aluno-ad180",
+    "storage_bucket": "manual-do-aluno-ad180.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:218911329318:android:09a18649ab67f875",
+        "android_client_info": {
+          "package_name": "br.com.regilan.manualdoaluno_ifbacampusilheus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "218911329318-s3hg07c8ht370ms3lj4q1esijuge8o2d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCy9eaWXG3wukYwWB3ghfAzcG6Oicf8QjM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
